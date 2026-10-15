@@ -1,7 +1,7 @@
 # OccamLLM: Fast and Exact Language Model Arithmetic in a Single Step
 
-**Owen Dugan\*, Donato M. Jiménez-Benetó\*, Charlotte Loh, Zhuo Chen, Rumen Dangovski, Marin Soljačić**
-Massachusetts Institute of Technology
+**Owen Dugan\*, Donato M. Jiménez-Benetó\*, Charlotte Loh, Zhuo Chen, Rumen Dangovski, Marin Soljačić**  
+Massachusetts Institute of Technology  
 \* Equal contribution
 
 *NeurIPS 2024*
